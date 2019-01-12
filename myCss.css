@@ -1,0 +1,23 @@
+.happyday {
+    color: green;
+}
+
+
+/* . is Class */
+
+.myClass2 {
+    text-align: center;
+}
+
+
+/* # is Id */
+
+#myId {
+    color: blue;
+    font-size: 30px;
+}
+
+#myId2 {
+    color: rgb(43, 11, 36);
+    font-size: 30px;
+}
